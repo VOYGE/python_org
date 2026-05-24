@@ -20,3 +20,5 @@
 
 ```bash
 pip install pandas requests openpyxl
+
+## В папке results вы можете увидеть результат работы скрипта
