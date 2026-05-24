@@ -1,3 +1,4 @@
+## В папке results вы можете увидеть результат работы скрипта
 # Currency Rates Parser
 
 Скрипт получает курсы валют к USD через открытое API,
@@ -20,5 +21,3 @@
 
 ```bash
 pip install pandas requests openpyxl
-
-## В папке results вы можете увидеть результат работы скрипта
